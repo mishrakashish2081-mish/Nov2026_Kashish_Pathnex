@@ -1,0 +1,3 @@
+Went throught the linux commands.
+Went through the Git commands and practised the same.
+Worked on the daily Git and git hub task.
