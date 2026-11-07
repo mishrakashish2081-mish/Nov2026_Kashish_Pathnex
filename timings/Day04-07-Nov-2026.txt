@@ -1,0 +1,6 @@
+Attended morning class from 7:00AM-10:30AM
+Went through linux commands and practised them for 1 and 1\2 an hour.
+Went through the AWS concepts, AWS website, AWS notes and also did chatgpt of what was taught in the morning for 2 hours.
+Practised git commands and worked on github task for 2 hours.
+Learning and trying to understand Linux scripting by watching previous YouTube videos and chatgpt for 1 and 1\2 an hour.
+
